@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dcavusoglu
-- 👀 For over 11 years, I've been an English teacher. I’m interested in frontend development. 
+- 👀 For over 11 years, I've been an English teacher. I’m interested in fullstack development. 
 - 🌱 I’m currently learning css and javascript to build responsive web sites. 
-- 💞️ I’m looking to collaborate on how to create and complete projects. 
+- 💞️ I’m looking to collaborate on new projects.
 - 📫 Send me an email to contact!
 
 <!---
