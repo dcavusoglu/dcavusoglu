@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Duygu!
-- 👀 For over 12 years, I worked as an English teacher. I’m interested in fullstack web development. 
+- 👩🏻‍💻 For over 12 years, I worked as an English teacher. I’m interested in fullstack web development. 
 - 🌱 I have done Le Wagon Fullstack Web Development Bootcamp! I’m currently learning more JavaScript and React. 
-- 💞️ I’m looking to collaborate on new projects.
+- 👀 I’m looking to collaborate on new projects.
 - 📫 Send me an email to contact!
 
 <!---
