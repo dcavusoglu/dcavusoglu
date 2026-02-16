@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Duygu!
-- 👩🏻‍💻 For over 12 years, I worked as an English teacher. I’m interested in fullstack web development. 
-- 🌱 I have done Le Wagon Fullstack Web Development Bootcamp! I’m fond of life-long learning. 
-- 👀 I’m looking to collaborate on new projects.
-- 📫 Send me an email to contact!
+### 👋 Hi, I’m Duygu!
 
-<!---
-dcavusoglu/dcavusoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Instructional Technologist | Fullstack Developer | PhD Candidate**
+
+I build AI-driven educational tools and scalable full-stack applications.
+
+- 👩🏻‍💻 **Currently:** Working as a Freelancer Fullstack Developer (Node.js, Laravel, Flutter).
+- 🎓 **Researching:** Generative AI as a Peer Learner (PhD Thesis).
+- 🌱 **Learning:** Advanced LLM Fine-tuning & Agentic Workflows.
+- 💬 **Ask me about:** EdTech, Curriculum Design, and Cross-Platform Mobile Dev.
+
+**Languages & Tools:**
+`Flutter` `Dart` `JavaScript (ES6+)` `Node.js` `React/Next.js` `Laravel` `MySQL` `Strapi`
+
+[LinkedIn](https://www.linkedin.com/in/duygucavusoglu) • [Email](mailto:cvsgl.dyg@gmail.com)
