@@ -10,6 +10,6 @@ I build AI-driven educational tools and scalable full-stack applications.
 - 💬 **Ask me about:** EdTech, Curriculum Design, and Cross-Platform Mobile Dev.
 
 **Languages & Tools:**
-`Flutter` `Dart` `JavaScript (ES6+)` `Node.js` `React/Next.js` `Laravel` `MySQL` `Strapi`
+`Flutter` `JavaScript (ES6+)` `Node.js` `React/Next.js` `Laravel` `MySQL` `Strapi`
 
 [LinkedIn](https://www.linkedin.com/in/duygucavusoglu) • [Email](mailto:cvsgl.dyg@gmail.com)
